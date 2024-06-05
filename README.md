@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentino Balatti</h1>
 <h3 align="center">Fullstack developer, currently studying a degree on Information Systems</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: valentinobalatti4@gmail.com</h3>
 <p align="left">
 </p>
 
